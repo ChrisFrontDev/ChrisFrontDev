@@ -31,8 +31,6 @@
   <img alt="Christian's E-mail" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>
 </a>
 
-<br/><br/>
-
 ## My Development Stack
 
 **Front-End**
