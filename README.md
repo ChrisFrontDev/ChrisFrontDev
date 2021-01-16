@@ -15,11 +15,11 @@
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning more abou Architecture and Project Patterns; 
+- 🌱 I’m currently learning more about Architecture and Project Patterns; 
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 📝 Chek my [Resume](https://drive.google.com/file/d/19u8NyY0_AJj0858Dqyj1mgZj7Tsl14Ew/view?usp=sharing)
+- 📝 Check my [Resume](https://drive.google.com/file/d/19u8NyY0_AJj0858Dqyj1mgZj7Tsl14Ew/view?usp=sharing)
 
 ### Where to find me:
 
