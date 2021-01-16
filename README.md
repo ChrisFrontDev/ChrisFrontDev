@@ -71,7 +71,7 @@
 
 <code><img height="48" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="48" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/></code>
-<code><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
+<code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"/></code>
 <code><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
 <br/>
