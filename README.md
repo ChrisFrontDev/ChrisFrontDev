@@ -1,4 +1,4 @@
-# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Hi, I'm Gris <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 <img align="right" width="40%" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="Donatelo Coding" />
 
@@ -8,8 +8,6 @@
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
-
-<br/>
 
 ### Talking about Personal Stuffs
 
@@ -22,7 +20,6 @@
 - 💬 Ask me about anything, I am happy to help;
 
 - 📝 Chek my [Resume](https://drive.google.com/file/d/19u8NyY0_AJj0858Dqyj1mgZj7Tsl14Ew/view?usp=sharing)
-
 
 ### Where to find me:
 
