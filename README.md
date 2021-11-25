@@ -5,7 +5,6 @@
 ### Welcome to my page!
 <p>
   I'm Christian, focused frontend developer with some back-end skills from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 
