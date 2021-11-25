@@ -15,7 +15,7 @@
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning Scala language; 
+- 🌱 I’m currently learning to be a FullCycle Developer; 
 
 - 💬 Ask me about anything, I am happy to help;
 
