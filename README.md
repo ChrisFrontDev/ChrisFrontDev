@@ -10,8 +10,6 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍🚀 I'm RocketSeat Lover;
-
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 
 - 🌱 I’m currently learning to be a FullCycle Developer; 
