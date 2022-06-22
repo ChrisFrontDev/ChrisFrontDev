@@ -24,7 +24,7 @@
   <img alt="Christian's LinkedIN" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
-<a href="mailto:christian.pinho@outlook.com">
+<a href="mailto:christiansantos.dev@gmail.com">
   <img alt="Christian's E-mail" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>
 </a>
 
