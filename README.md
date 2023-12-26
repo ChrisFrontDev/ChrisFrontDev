@@ -16,8 +16,6 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 📝 Check my [Resume](https://drive.google.com/file/d/19u8NyY0_AJj0858Dqyj1mgZj7Tsl14Ew/view?usp=sharing)
-
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/christian-santos-front-end/">
