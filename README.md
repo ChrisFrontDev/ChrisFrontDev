@@ -6,13 +6,12 @@
 <p>
   I'm Christian, focused frontend developer with some back-end skills from 
   <b>Brazil</b>.
+  (8years of experience)
 </p>
 
 ### Talking about Personal Stuffs
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-
-- 🌱 I’m currently learning to be a FullCycle Developer; 
+- 👨🏽‍💻  I’m currently learning to be a FullCycle Developer; 
 
 - 💬 Ask me about anything, I am happy to help;
 
