@@ -13,7 +13,7 @@
 
 - 👨🏽‍💻  I’m currently learning to be a FullCycle Developer; 
 
-- 💬  learning some Japanese;
+- 💬  learning some Japanese and Dutch;
 
 ### Where to find me:
 
