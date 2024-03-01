@@ -11,7 +11,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👨🏽‍💻  I’m currently learning to be a FullCycle Developer; 
+- 👨🏽‍💻  I’m currently improving my abilities to be a FullCycle Developer; 
 
 - 💬  learning some Japanese and Dutch;
 
