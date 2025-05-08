@@ -6,7 +6,7 @@
 <p>
   I'm Christian, focused frontend developer with some back-end skills from 
   <b>Brazil</b>.
-  (8years of experience)
+  (10+ years of experience)
 </p>
 
 ### Talking about Personal Stuffs
