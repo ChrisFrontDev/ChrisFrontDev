@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Christian, focused frontend developer with some back-end skills from 
+  I'm Christian, focused frontend developer with some back-end and AI/Computer Vision skills from 
   <b>Brazil</b>.
   (10+ years of experience)
 </p>
@@ -13,7 +13,6 @@
 
 - 👨🏽‍💻  I’m currently improving my abilities to be a FullCycle Developer; 
 
-- 💬  learning some Japanese and Dutch;
 
 ### Where to find me:
 
