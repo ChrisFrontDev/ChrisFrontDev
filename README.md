@@ -9,11 +9,6 @@
   (10+ years of experience)
 </p>
 
-### Talking about Personal Stuffs
-
-- 👨🏽‍💻  I’m currently improving my abilities to be a FullCycle Developer; 
-
-
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/christian-santos-front-end/">
