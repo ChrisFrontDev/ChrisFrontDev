@@ -27,7 +27,7 @@ Industries: Internet/Communication, fintech/banking, betting/regulated platforms
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/christian-santos-front-end/">
+<a href="https://www.linkedin.com/in/christian-santos-swe">
   <img alt="Christian's LinkedIN" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
