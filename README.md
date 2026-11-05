@@ -1,4 +1,12 @@
-# Hi, I'm Gris <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+## Hi, I'm Christian (Gris)
+
+Senior Full Stack & AI Engineer · 10 years building production software end to end · Remote from Brazil (UTC-3)
+
+- Founding engineer & CTO at Bombolso, a fintech used by 10,000+ Brazilians
+- Built Alias, a managed OSINT investigation platform, for SockPuppet (US)
+- Founding engineer at Legitimuz (KYC): SDKs, platform, and computer vision models that cut manual review by 98%
+
+[LinkedIn](https://www.linkedin.com/in/christian-santos-swe)
 
 <img align="right" width="40%" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="Donatelo Coding" />
 
